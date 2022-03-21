@@ -1,0 +1,28 @@
+.header{
+    padding: 15px 20px;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    position: sticky;
+    background-color: white;
+    z-index: 100;
+    color: white;
+    background-color: rgb(29, 26, 26);
+    top: 0;
+    box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, .75);
+}
+
+.header-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.heading{
+    padding: 0;
+}
+
+.header-left > img{
+    height: 44px;
+}

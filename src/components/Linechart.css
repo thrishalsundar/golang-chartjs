@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+}
+
+
+.bar_chart{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bar_chart>h1{
+    padding: 2%;
+}
+
+canvas{
+    margin: 0 auto;
+    height: 500px;
+}
